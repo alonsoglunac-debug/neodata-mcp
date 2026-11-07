@@ -1,0 +1,9 @@
+# Notas personales y temporales
+NOTAS_LOCALES.md
+HANDOFF.md
+__pycache__/
+*.pyc
+*.bak
+*.mdf
+*.ldf
+*.xlsx
